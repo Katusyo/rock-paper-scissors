@@ -1,14 +1,14 @@
 Pseudo Code
 
-IF play button is pressed THEN
-- assign rock, scissor, paper to numbers 1, 2, 3
+IF page is opened THEN
+- assign rock, scissor, paper to numbers 1, 2, 3 for computer
 - randomly select 1
 ELSE
 - randomly select 2
 ELSE
 - randomly select 3
 ENDIF
-WHILE number has been selected allow user to choose rock, scissor, or paper
+WHILE computer choice has been selected allow user to choose rock, scissor, or paper
 IF rock is chosen THEN
 - check computers choice against users choice
 - rock against rock returns TIE
